@@ -1,0 +1,190 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.background_header {
+  width: 100%;
+  margin: 0 auto;
+  background-image: url(https://www.cgv.vn/skin/frontend/cgv/default/images/bg-cgv/bg-top.png);
+  background-size: 10px 135px;
+  height: 135px;
+}
+.header-language-background {
+  padding-bottom: 40px;
+  text-decoration: none;
+  background-color: #fdfcf0;
+}
+.header-top-account {
+  float: right;
+  font-weight: bold;
+}
+.login {
+  display: flex;
+}
+.page-header-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  position: relative;
+  z-index: 2000;
+}
+.nav-primary {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.header-search {
+  padding-left: 3%;
+}
+.new1 {
+  border: 1px solid black;
+}
+.footer-brand-slide {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.dx4 {
+  text-decoration: none;
+}
+.imax {
+  font-weight: bold;
+  color: #0096d7;
+  text-decoration: none;
+}
+.starium {
+  text-decoration: none;
+  color: #f68b1f;
+  font-weight: bold;
+}
+.lamour {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+.sweet {
+  text-decoration: none;
+  font-weight: bold;
+  color: red;
+}
+.dolby-atmos {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+.premium-cinema {
+  text-decoration: none;
+  font-weight: bold;
+  color: red;
+}
+.screenx {
+  text-decoration: none;
+  font-weight: bold;
+  color: darkgray;
+}
+.cine-foret {
+  text-decoration: none;
+  font-weight: bold;
+  color: darkgray;
+}
+.cine-suite {
+  text-decoration: none;
+  font-weight: bold;
+  color: darkgray;
+}
+.footer {
+  background-color: #fdfcf0;
+}
+
+.gioithieu {
+  list-style-type: none;
+}
+.a {
+  text-decoration: none;
+  color: #636363;
+}
+.ul1 {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
+.main {
+  height: 300px;
+  font-size: 100px;
+  text-align: center;
+}
+.imgft {
+  height: 50px;
+  width: 50px;
+}
+.gioithieu1 {
+  display: flex;
+}
+.end {
+  width: 100%;
+  margin: 0 auto;
+  background-image: url(https://www.cgv.vn/skin/frontend/cgv/default/images/bg-cgv/bg-bottom-footer.jpg);
+  background-size: px 135px;
+  height: 100px;
+  padding-bottom: 20px;
+}
+.imgft1 {
+  margin-top: 2%;
+  height: 100px;
+  width: 150px;
+}
+.h3Login {
+  height: 50px;
+  width: 500px;
+  background-color: #e71a0f;
+  text-align: center;
+  color: white;
+}
+.login1 {
+  display: flex;
+  background-color: #fdfcf0;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.ipnLogin {
+  height: 30px;
+  width: 500px;
+  border: 1px solid white;
+}
+.ipnPass {
+  height: 30px;
+  width: 500px;
+  border: 1px solid white;
+}
+.aLogin {
+  text-decoration: none;
+  color: blue;
+}
+.btnLogin {
+  height: 50px;
+  width: 500px;
+  background-color: #e71a0f;
+  text-align: center;
+  color: white;
+}
+.btnRegister{
+  height: 50px;
+  width: 500px;
+  background-color: #e71a0f;
+  text-align: center;
+  color: white;
+ 
+}
